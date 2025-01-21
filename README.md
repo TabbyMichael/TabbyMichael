@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌟 Hi, I'm Tabby Michael!  
 
-<!--
-**TabbyMichael/TabbyMichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 🚀 passionate Full-Stack Developer with expertise in **TypeScript**, **Dart**, and **Python**. I build innovative, user-focused applications ranging from 🔗 blockchain solutions to 📱 mobile apps.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 What I Do  
+- 🛠 Build open-source projects.  
+- 💼 Develop cutting-edge apps in finance, e-commerce, and social networking.  
+- 📚 Continuously learn and explore new technologies.  
+
+---
+
+## 📈 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TabbyMichael&show_icons=true&theme=radical)  
+
+---
+
+## 🤝 Let's Collaborate!  
+I'm always open to exciting collaborations. Feel free to:  
+- 💬 Reach out via email or socials.  
+- ⭐️ Star or fork my repositories!  
