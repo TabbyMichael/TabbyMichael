@@ -52,7 +52,7 @@ I'm a **Full-Stack Developer** with a passion for building innovative solutions 
       <br>Java
     </td>
     <td align="center" width="110" style="padding: 10px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
       <br>Rust
     </td>
   </tr>
@@ -105,7 +105,7 @@ I'm a **Full-Stack Developer** with a passion for building innovative solutions 
       <br>Firebase
     </td>
     <td align="center" width="110" style="padding: 10px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="110" style="padding: 10px">
